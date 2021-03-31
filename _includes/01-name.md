@@ -1,3 +1,3 @@
-#Bethany
-##A CS major
-###And a flamenco dancer
+# Bethany
+## A CS major
+### And a flamenco dancer
